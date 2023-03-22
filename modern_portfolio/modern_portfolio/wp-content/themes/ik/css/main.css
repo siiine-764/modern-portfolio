@@ -21,7 +21,11 @@ html {
     width: 100%;
     height: 100%;
     position: relative;
+<<<<<<< HEAD
     /* background: #ee0909 !important; */
+=======
+/*     background: #ee0909 !important; */
+>>>>>>> e0a43afd1f85804a0e4956eac5323e92b8216904
     overflow: hidden;
     color: #fff
 }
